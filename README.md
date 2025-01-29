@@ -6,7 +6,7 @@
 - Beneficiary: Tagalag Elementary School (Valenzuela City)
 
 ## People Behind this Project:
-1. ##John Emmanuel E. Tayam
+1. John Emmanuel Tayam
 - Role: UX Designer / Documentation Specialist / Principal Investigator
 - Accomplishments: Flashcards / Design Concepts / Wireframing / 3D Models / App Contents
 
@@ -14,11 +14,11 @@
 - Role: App Programmer / Documentation Specialist / Software Engineer / Researcher
 - Accomplishements: Applying AR in app / Applying Image Recognition Algorithm on app / C# Programmer / App Contents
 
-###3. Juan Alfonso Mollida
+3. Juan Alfonso Mollida
 - Role: App Designer / Interaction Designer / App Developer
 - Accomplishements: App buttons / Translating UX Design Concepts to App
 
-###4. Raymond Irhan Grimaldo
+4. Raymond Irhan Grimaldo
 - Role: Documentation Specialist / Data Analytics
 - Accomplishments: Tally of Data Results / Researcher
 ---
